@@ -900,4 +900,4 @@ function play(guild, song) {
 }
 
 
-client.login(TOKEN)
+client.login("NzU1NzY4NTkyMTA0MDMwMjA4.X2IGWQ.QiXwaReLCw_OV2xioni190rSfOk")
